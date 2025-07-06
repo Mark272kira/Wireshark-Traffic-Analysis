@@ -1,0 +1,13 @@
+Protocol: DNS
+Source IP: 10.40.83.74
+Destination IP: 10.40.83.10
+Info: Standard query AAAA update.googleapis.com
+
+Protocol: UDP
+Source IP: 10.40.83.74
+Destination IP: 10.40.83.10
+Info: Standard query A play.google.com
+
+
+
+
